@@ -9,18 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:ziadnasser.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ziadnasser-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ziad-Nasser">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 **About Me**
@@ -49,7 +37,7 @@
 ## 🌎 **Connect With Me**
 <p align="center">
   <a href="mailto:ziadnasser.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/ziad-nasser"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ziadnasser-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Ziad-Nasser"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
