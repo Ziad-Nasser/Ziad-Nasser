@@ -26,7 +26,7 @@
 ## 👨‍💻 **About Me**
 - 🚀 Passionate **Software Developer**
 - 🌱 Currently learning **Next.js 15** & **Node.js**
-- 🔭 Working on **[Hirease](https://github.com/Ziad-Nasser/Hirease)**
+- 🔭 Working on **[Hirease](https://github.com/Hirease)**
 - 💬 Ask me about **React, Next.js, Node.js**
 - 📫 Reach me at **ziadnasser.dev@gmail.com**
 - ⚡ Fun fact: I love **solving algorithms** & **building modern web solutions**
