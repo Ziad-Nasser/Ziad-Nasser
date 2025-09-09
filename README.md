@@ -25,7 +25,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Nasser&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ziad-Nasser&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ziad-Nasser&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
 </p>
 
 <p align="center">
