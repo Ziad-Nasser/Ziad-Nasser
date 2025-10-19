@@ -3,7 +3,7 @@
 </h1>
 
 <!-- Typing Effect -->
-<p align="center">تتت
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=A+passionate+Software+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Node.js;Building+Modern+Responsive+Web+Apps;Always+Learning+New+Technologies+%F0%9F%92%AA" alt="Typing SVG" />
   </a>
