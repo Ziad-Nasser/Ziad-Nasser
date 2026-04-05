@@ -24,16 +24,16 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Nasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ziad-Nasser&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+   -->
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Ziad-Nasser&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <!-- Top Languages -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Nasser&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+</p> -->
 
 ---
 
