@@ -13,7 +13,6 @@
 
 ## 👨‍💻 **About Me**
 - 🚀 Passionate **Software Developer**
-- 🔭 Working on **[Hirease](https://github.com/Hirease)**
 - 💬 Ask me about **React, Next.js, Node.js**
 - 📫 Reach me at **ziadnasser.dev@gmail.com**
 - ⚡ Fun fact: I love **solving algorithms** & **building modern web solutions**
